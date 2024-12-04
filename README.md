@@ -48,7 +48,8 @@ Welcome to the **QR Code Generator**! This web application allows you to effortl
 
  
 ## 🎥 Demo
-![{AA31BDF0-7E77-4ACE-99B6-EE280E1067F3}](https://github.com/user-attachments/assets/b9639dcc-304c-427c-a0ed-c9ed6972cbb7)
+![portfolio-qrcode](https://github.com/user-attachments/assets/429c2efc-696c-48c8-8390-21f2d208592f)
+
 
 
 
